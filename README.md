@@ -1,0 +1,1 @@
+This simple application consists of an auction project that allows you to make offers for products, view products available for auction and purchased, register users, register comments, and among other features
